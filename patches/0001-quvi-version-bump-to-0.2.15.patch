@@ -1,0 +1,17 @@
+From d3e07ae629e6234e54d066ce1260f6ebe5051a4e Mon Sep 17 00:00:00 2001
+From: Kingdon Barrett <kingdon@tuesdaystudios.com>
+Date: Mon, 16 May 2011 18:39:53 +0000
+Subject: [PATCH 1/2] quvi version bump to 0.2.15
+
+---
+ ...quvi-0.2.14.exheres-0 => quvi-0.2.15.exheres-0} |    0
+ 1 files changed, 0 insertions(+), 0 deletions(-)
+ copy packages/dev-libs/quvi/{quvi-0.2.14.exheres-0 => quvi-0.2.15.exheres-0} (100%)
+
+diff --git a/packages/dev-libs/quvi/quvi-0.2.14.exheres-0 b/packages/dev-libs/quvi/quvi-0.2.15.exheres-0
+similarity index 100%
+copy from packages/dev-libs/quvi/quvi-0.2.14.exheres-0
+copy to packages/dev-libs/quvi/quvi-0.2.15.exheres-0
+-- 
+1.7.4.3
+

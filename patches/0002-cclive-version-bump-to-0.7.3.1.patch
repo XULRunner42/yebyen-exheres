@@ -1,0 +1,17 @@
+From eec8e445f2659289f5e0c883cab979101a92cc8b Mon Sep 17 00:00:00 2001
+From: Kingdon Barrett <kingdon@tuesdaystudios.com>
+Date: Mon, 16 May 2011 18:41:20 +0000
+Subject: [PATCH 2/2] cclive version bump to 0.7.3.1
+
+---
+ ...ve-0.7.2.exheres-0 => cclive-0.7.3.1-exheres-0} |    0
+ 1 files changed, 0 insertions(+), 0 deletions(-)
+ copy packages/net-apps/cclive/{cclive-0.7.2.exheres-0 => cclive-0.7.3.1-exheres-0} (100%)
+
+diff --git a/packages/net-apps/cclive/cclive-0.7.2.exheres-0 b/packages/net-apps/cclive/cclive-0.7.3.1-exheres-0
+similarity index 100%
+copy from packages/net-apps/cclive/cclive-0.7.2.exheres-0
+copy to packages/net-apps/cclive/cclive-0.7.3.1-exheres-0
+-- 
+1.7.4.3
+
