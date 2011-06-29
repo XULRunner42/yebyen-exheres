@@ -1,0 +1,30 @@
+# Copyright 2010 Kingdon Barrett <yebyen@gmail.com>
+# Distributed under the terms of the GNU General Public License v2
+# Based in part upon 'e16-1.0.7.exheres-0', which is:
+#     Copyright 2010 A Frederick Christensen <fauxmight@nosocomia.com>
+
+SUMMARY="Keybindings editor for the e16 window manager"
+DESCRIPTION="
+    e16keyedit provides a graphical interface to the enlightenment
+    keybindings that are stored in your e16 profile settings.
+"
+HOMEPAGE="http://www.enlightenment.org/"
+DOWNLOADS="mirror://sourceforge/enlightenment/${PNV}.tar.gz"
+
+BUGS_TO="yebyen@gmail.com"
+REMOTE_IDS="sourceforge:enlightenment"
+
+LICENCES="MIT"
+SLOT="0"
+PLATFORMS="~x86 ~amd64"
+
+DEPENDENCIES="
+    build:
+        dev-util/pkg-config
+    build+run:
+        x11-libs/gtk+:2
+        x11-libs/libX11
+    recommendation:
+        x11-wm/e16 [[ description = [ This package is not useful without the e16 window manager ]  ]]
+"
+
